@@ -10,6 +10,12 @@ Forward webhooks from one bot to multiple servers!
 * Setup config vars, as shown in the `.env.example` file
 * Enter your heroku url in the bot of your choice, and you're done!
 
+
+### Credits
+* Webhook Queue - [Kiwi](https://github.com/sneakykiwi); [code](https://gist.github.com/sneakykiwi/2d032b1809a4ed927525a0f02471ea74)
+* Inspiration - [VishnuAIO](https://twitter.com/VishnuAIO); [VishnuNotify](https://twitter.com/VishnuNotify)
+
+
 ## License
 MIT License
 
