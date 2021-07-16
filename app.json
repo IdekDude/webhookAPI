@@ -1,0 +1,7 @@
+{
+  "name": "Webhook API",
+  "description": "Send webhooks from one bot to multiple servers",
+  "repository": "https://github.com/IdekDude/webhookAPI",
+  "logo": "https://blog.golang.org/go-brand/Go-Logo/PNG/Go-Logo_LightBlue.png",
+  "keywords": ["webhook", "API", "golang", "bot"]
+}
