@@ -14,7 +14,7 @@ Forward webhooks from one bot to multiple servers!
 ### Credits
 * Webhook Queue - [Kiwi](https://github.com/sneakykiwi); [code](https://gist.github.com/sneakykiwi/2d032b1809a4ed927525a0f02471ea74)
 * Inspiration - [VishnuAIO](https://twitter.com/VishnuAIO); [VishnuNotify](https://twitter.com/VishnuNotify)
-
+* Made For VishnuNotify
 
 ## License
 MIT License
